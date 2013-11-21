@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		xsi:noNamespaceSchemaLocation="src\main\resources\data\users.xsd">
+    <user>
+        <first-name>John</first-name>
+        <last-name>White</last-name>
+        <username>jwhite</username>
+        <password>jwhite</password>
+    </user>
+    <user>
+        <first-name>David</first-name>
+		<last-name>Green</last-name>
+        <username>dgreen</username>
+        <password>dgreen</password>
+    </user>
+    <user>
+        <first-name>Ann</first-name>
+		<last-name>Blue</last-name>
+        <username>ablue</username>
+        <password>ablue</password>
+    </user>
+    <user>
+        <first-name>Max</first-name>
+		<last-name>Black</last-name>
+        <username>mblack</username>
+        <password>mblack</password>
+    </user>
+    <user>
+        <first-name>Ketty</first-name>
+		<last-name>Purple</last-name>    
+        <username>kpurple</username>
+        <password>kpurple</password>
+    </user>      
+</users>
