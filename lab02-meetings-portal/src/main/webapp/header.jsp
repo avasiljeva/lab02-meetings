@@ -10,6 +10,7 @@
 		<link rel="stylesheet" type="text/css" href="<c:url value="/css/main.css"/>" />
 	</head>
 	<body>
+		<script language="javascript" src="/meetings/meetings_gwt/meetings_gwt.nocache.js"></script>
 		<div id="menu">
 		        <p style="text-align: center; font-size: 13pt;"><b>Meetings Portal</b></p>
 		        <hr/>
